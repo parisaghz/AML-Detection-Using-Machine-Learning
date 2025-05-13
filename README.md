@@ -1,6 +1,6 @@
 # 🕵️‍♀️ AML Detection Using Machine Learning with SHAP Interpretability
 
-This project implements an interpretable machine learning system to detect potential money laundering transactions using a large-scale synthetic financial dataset. The work was developed as part of the **System Development for Fintech** course at AUAS.
+This project implements an interpretable machine learning system to detect potential money laundering transactions using a large-scale synthetic financial dataset.
 
 ---
 
